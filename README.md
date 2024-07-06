@@ -1,2 +1,3 @@
 Example
-![image](https://github.com/NGon001/Hypixel-Auctio-Tracker/assets/134175784/ca1a0ec4-da13-45d8-b3ea-6ae7a78c3ba9)
+
+![image](https://github.com/NGon001/Hypixel-Auctio-Tracker/assets/134175784/ebc60c16-2d65-4737-bb8b-e2a06dba9f46)
